@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="AppiumTest">
+    <classes>
+     <class name ="baiscs.AppiumTest">
+     <methods>
+     <include name ="mobile.*"/>
+     </methods>
+     
+     </class>
+    </classes>
+  </test> 
+  <test name = "Api">
+  <classes>
+  <class name = "baiscs.RestAPITest">
+  <methods>
+  <include name ="Api.*"/>
+ 
+  </methods>
+  </class>
+  </classes>
+  </test>
+  <test name ="web">
+  <classes>
+  <class name ="baiscs.WebTest">
+  <methods>
+    <include name ="web.*"/>
+  </methods>
+
+  </class>
+  </classes>
+  </test>
+</suite> 

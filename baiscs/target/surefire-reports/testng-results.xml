@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="12" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-14T01:28:39 IST" name="Suite" finished-at="2020-08-14T01:28:40 IST" duration-ms="246">
+    <groups>
+    </groups>
+    <test started-at="2020-08-14T01:28:39 IST" name="AppiumTest" finished-at="2020-08-14T01:28:39 IST" duration-ms="73">
+      <class name="baiscs.AppiumTest">
+        <test-method signature="mobilebrowserchrome()[pri:0, instance:baiscs.AppiumTest@68e5eea7]" started-at="2020-08-14T01:28:39 IST" name="mobilebrowserchrome" finished-at="2020-08-14T01:28:39 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilebrowserchrome -->
+        <test-method signature="mobilebrowserfirefox()[pri:0, instance:baiscs.AppiumTest@68e5eea7]" started-at="2020-08-14T01:28:39 IST" name="mobilebrowserfirefox" finished-at="2020-08-14T01:28:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilebrowserfirefox -->
+        <test-method signature="mobilebrowserinternetexplorer()[pri:0, instance:baiscs.AppiumTest@68e5eea7]" started-at="2020-08-14T01:28:39 IST" name="mobilebrowserinternetexplorer" finished-at="2020-08-14T01:28:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilebrowserinternetexplorer -->
+      </class> <!-- baiscs.AppiumTest -->
+    </test> <!-- AppiumTest -->
+    <test started-at="2020-08-14T01:28:40 IST" name="Api" finished-at="2020-08-14T01:28:40 IST" duration-ms="5">
+      <class name="baiscs.RestAPITest">
+        <test-method signature="Apichrome()[pri:0, instance:baiscs.RestAPITest@11c9af63]" started-at="2020-08-14T01:28:40 IST" name="Apichrome" finished-at="2020-08-14T01:28:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Apichrome -->
+        <test-method signature="Apifirefox()[pri:0, instance:baiscs.RestAPITest@11c9af63]" started-at="2020-08-14T01:28:40 IST" name="Apifirefox" finished-at="2020-08-14T01:28:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Apifirefox -->
+        <test-method signature="Apiie()[pri:0, instance:baiscs.RestAPITest@11c9af63]" started-at="2020-08-14T01:28:40 IST" name="Apiie" finished-at="2020-08-14T01:28:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Apiie -->
+      </class> <!-- baiscs.RestAPITest -->
+    </test> <!-- Api -->
+    <test started-at="2020-08-14T01:28:40 IST" name="web" finished-at="2020-08-14T01:28:40 IST" duration-ms="7">
+      <class name="baiscs.WebTest">
+        <test-method signature="webbrowsergoogle()[pri:0, instance:baiscs.WebTest@3cc1435c]" started-at="2020-08-14T01:28:40 IST" name="webbrowsergoogle" finished-at="2020-08-14T01:28:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webbrowsergoogle -->
+        <test-method signature="webbrowserinternetexplorer()[pri:0, instance:baiscs.WebTest@3cc1435c]" started-at="2020-08-14T01:28:40 IST" name="webbrowserinternetexplorer" finished-at="2020-08-14T01:28:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webbrowserinternetexplorer -->
+        <test-method signature="webbrowsermozillafirefox()[pri:0, instance:baiscs.WebTest@3cc1435c]" started-at="2020-08-14T01:28:40 IST" name="webbrowsermozillafirefox" finished-at="2020-08-14T01:28:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webbrowsermozillafirefox -->
+      </class> <!-- baiscs.WebTest -->
+    </test> <!-- web -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,5 +1,7 @@
 package baiscs;
 
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class AppiumTest {
@@ -34,6 +36,21 @@ public class AppiumTest {
 	public void web() 
 	{
 		System.out.println("web");
+	}
+	@Test
+	public void web1()
+	{
+		System.out.println("hello github");
+	}
+	@AfterTest
+	public void aftets() 
+	{
+		System.out.println("aftretest");
+	}
+	@BeforeTest
+	public void bftest()
+	{
+		System.out.println("beforetest");
 	}
 }
 

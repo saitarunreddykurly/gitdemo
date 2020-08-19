@@ -18,6 +18,17 @@ public class AppiumTest {
     public void mobilebrowserinternetexplorer()
     {
 		System.out.println("mobilebrowserinternetexplorer");
+		System.out.println("mobile1browserinternetexplorer");
+		System.out.println("mobile2browserinternetexplorer");
+		System.out.println("mobile3browserinternetexplorer");
+		System.out.println("mobile4browserinternetexplorer");
+		System.out.println("mobile5browserinternetexplorer");
+		System.out.println("mobile6browserinternetexplorer");
+		System.out.println("mobile7browserinternetexplorer");
+		System.out.println("mobile8browserinternetexplorer");
+		System.out.println("mobile9browserinternetexplorer");
+		System.out.println("mobile20browserinternetexplorer");
+		System.out.println("mobile12browserinternetexplorer");
     }
 	@Test
 	public void web() 

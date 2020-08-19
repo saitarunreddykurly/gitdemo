@@ -11,7 +11,13 @@ public class RestAPITest {
 	@Test
 	public void Apifirefox()
 	{
-		System.out.println("Apifirefox");
+		System.out.println("Apifirefox1");
+		System.out.println("Apifirefox2");
+		System.out.println("Apifirefox3");
+		System.out.println("Apifirefox4");
+		System.out.println("Apifirefox5");
+		System.out.println("Apifirefox6");
+		
 	}
 	@Test
 	public void Apiie()
